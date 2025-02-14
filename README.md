@@ -20,7 +20,7 @@
 ### 安装步骤
 1. 克隆项目
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/assumeengagetry/makerhub-backend.git)>
 cd user-management-system/backend
 ```
 
